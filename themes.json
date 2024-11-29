@@ -152,9 +152,18 @@
       "type": "dark"
     },
     {
+    "name": "AstroRed",
+    "palette": "#FF0000:#FF2400:#DC143C:#E62020:#FF0800:#CE2029:#E23D28:#E44D2E:#CB4154:#7C0A02:#CD5C5C:#801818:#CC4E5C:#B22222:#800000:#8B0000",
+    "background_color": "#000000",
+    "cursor_color": "#808080",
+    "foreground_color": "#FF0000",
+    "background_image": "None",
+    "type": "dark"
+    },
+    {
         "name": "AstroXmas",
         "palette": "#1b1d1e:#CB4154:#c8be46:#9E1B32:#4F7942:#A9BA9D:#8fbc8f:#c6c5bf:#4B5320:#D05D5E:#B7410E:#8B3F3F:#006400:#ACE1AF:#004225:#dadbd6",
-        "background_color": "#1b1d1e",
+        "background_color": "#000000",
         "cursor_color": "#ACE1AF",
         "foreground_color": "#6f6f6f",
         "background_image": "None",
