@@ -152,6 +152,15 @@
       "type": "dark"
     },
     {
+    "name": "AstroGreen",
+    "palette": "#4F7942:#9DC183:#8FBC8F:#4B6F44:#4A5D23:#228B22:#78866B:#87A96B:#00FA9A:#32CD32:#3FFF00:#76FF7A:#39FF14:#CCFF00:#00FF7F:#74C365",
+    "background_color": "#000000",
+    "cursor_color": "#A9A9A9",
+    "foreground_color": "#98FB98",
+    "background_image": "None",
+    "type": "dark"
+    },
+    {
     "name": "AstroRed",
     "palette": "#FF0000:#FF2400:#DC143C:#E62020:#FF0800:#CE2029:#E23D28:#E44D2E:#CB4154:#7C0A02:#CD5C5C:#801818:#CC4E5C:#B22222:#800000:#8B0000",
     "background_color": "#000000",
